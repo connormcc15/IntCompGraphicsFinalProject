@@ -34,11 +34,11 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Glossiness: 0
+    - _Glossiness: 1
     - _QueueControl: 0
     m_Colors:
     - _EmissionColour: {r: 0.2905661, g: 0.2905661, b: 0.2905661, a: 1}
-    - _VehicleColour: {r: 0.07924521, g: 0.07924521, b: 0.07924521, a: 1}
+    - _VehicleColour: {r: 0.2905661, g: 0.2905661, b: 0.2905661, a: 1}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
 --- !u!114 &1305746409595067225
