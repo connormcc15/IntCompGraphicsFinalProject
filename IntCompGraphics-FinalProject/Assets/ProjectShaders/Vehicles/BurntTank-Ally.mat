@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Burnt Tank
+  m_Name: BurntTank-Ally
   m_Shader: {fileID: -6465566751694194690, guid: 58d2e0c8f75def64983f17ab67b278e0, type: 3}
   m_Parent: {fileID: 2100000, guid: dfdc77b900be3de4ea5de7a4bfc9b28b, type: 2}
   m_ModifiedSerializedProperties: 2
