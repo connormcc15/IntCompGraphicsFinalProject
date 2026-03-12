@@ -354,9 +354,9 @@ MonoBehaviour:
   uiBounds:
     serializedVersion: 2
     x: -1544
-    y: -660
+    y: -662
     width: 2806
-    height: 3293
+    height: 3295
 --- !u!114 &114350483966674976
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -868,8 +868,8 @@ MonoBehaviour:
   - {fileID: 8926484042661614906}
   - {fileID: 8926484042661615126}
   dataType: 1
-  capacity: 600
-  stripCapacity: 6
+  capacity: 10000
+  stripCapacity: 100
   particlePerStripCount: 100
   needsComputeBounds: 0
   boundsMode: 1
@@ -2917,7 +2917,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: System.Single, mscorlib, Version=4.0.0.0, Culture=neutral,
           PublicKeyToken=b77a5c561934e089
-      m_SerializableObject: 6
+      m_SerializableObject: 30
     m_Space: -1
   m_Property:
     name: Count
@@ -9610,7 +9610,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: System.Single, mscorlib, Version=4.0.0.0, Culture=neutral,
           PublicKeyToken=b77a5c561934e089
-      m_SerializableObject: -0.5
+      m_SerializableObject: -2
     m_Space: -1
   m_Property:
     name: Min
@@ -9644,7 +9644,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: System.Single, mscorlib, Version=4.0.0.0, Culture=neutral,
           PublicKeyToken=b77a5c561934e089
-      m_SerializableObject: 0.5
+      m_SerializableObject: 2
     m_Space: -1
   m_Property:
     name: Max
