@@ -27,7 +27,7 @@ Transform:
   m_GameObject: {fileID: 2671044439927653457}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 1.01, y: 0, z: 0}
+  m_LocalPosition: {x: 0.00999999, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -4909,6 +4909,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Sparks
       objectReference: {fileID: 0}
+    - target: {fileID: 5544151502766921439, guid: 8b21e52a213dadf46a36826a35809e02, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6891924209409045417, guid: 8b21e52a213dadf46a36826a35809e02, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.058589995
@@ -5011,6 +5015,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: FireTrail
       objectReference: {fileID: 0}
+    - target: {fileID: 8632109925010137005, guid: 3060b2a64848eb24d8a1752580b43971, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -5032,6 +5040,10 @@ PrefabInstance:
     - target: {fileID: 2778082268723267787, guid: 6392c37eabad20b4a8b7771f023caace, type: 3}
       propertyPath: m_Name
       value: SmokeTrail
+      objectReference: {fileID: 0}
+    - target: {fileID: 2778082268723267787, guid: 6392c37eabad20b4a8b7771f023caace, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3023339966150555655, guid: 6392c37eabad20b4a8b7771f023caace, type: 3}
       propertyPath: m_LocalPosition.x
